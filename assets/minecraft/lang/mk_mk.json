@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e Жолти горни запци",
   "block.minecraft.spawner.desc1": "§7 Interact with Spawn Egg:",
   "block.minecraft.spawner.desc2": "§8 Сетови Тип на мобилна телефонија",
+  "book.byAuthor": " од %1$s",
   "book.generation.0": "§b Оригинал",
   "book.generation.1": "§9 Копија на оригиналот",
   "book.generation.2": "§1 Копија на копија",

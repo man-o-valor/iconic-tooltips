@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e Geelgegolfd schildhoofd",
   "block.minecraft.spawner.desc1": "§7 Interactie met spawnei:",
   "block.minecraft.spawner.desc2": "§8 Bepaalt te spawnen wezentype",
+  "book.byAuthor": " door %1$s",
   "book.generation.0": "§b Origineel",
   "book.generation.1": "§9 Kopie van origineel",
   "book.generation.2": "§1 Kopie van een kopie",

@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e Gule taggar uppe",
   "block.minecraft.spawner.desc1": "§7 Nytta kveikjeegg:",
   "block.minecraft.spawner.desc2": "§8 Set kvìkendeslag",
+  "book.byAuthor": " av %1$s",
   "book.generation.0": "§b Upphavleg",
   "book.generation.1": "§9 Avrit av upphavleg",
   "book.generation.2": "§1 Avrit av avrit",

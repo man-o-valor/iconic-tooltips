@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e Араҕас тиистэрдээх төбө",
   "block.minecraft.spawner.desc1": "§7 Төрөтөр сымыыты кытары дьайсыы:",
   "block.minecraft.spawner.desc2": "§8 Моб көрүҥүн быһаарар",
+  "book.byAuthor": " Ааптар: %1$s",
   "book.generation.0": "§b Оригинал",
   "book.generation.1": "§9 Оригинал куоппуйата",
   "book.generation.2": "§1 Куоппуйа куоппуйата",

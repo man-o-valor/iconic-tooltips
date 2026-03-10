@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e Chefe Dentado Amarelo",
   "block.minecraft.spawner.desc1": "§7 Interage com ovos de invocação:",
   "block.minecraft.spawner.desc2": "§8 Define o tipo de criatura",
+  "book.byAuthor": " por %1$s",
   "book.generation.0": "§b Original",
   "book.generation.1": "§9 Cópia do original",
   "book.generation.2": "§1 Cópia de uma cópia",

@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e Sárga fogas fő",
   "block.minecraft.spawner.desc1": "§7 Interakció idézőtojással:",
   "block.minecraft.spawner.desc2": "§8 Beállítja a mob típusát",
+  "book.byAuthor": " szerző: %1$s",
   "book.generation.0": "§b Eredeti",
   "book.generation.1": "§9 Eredeti másolata",
   "book.generation.2": "§1 Másolat másolata",

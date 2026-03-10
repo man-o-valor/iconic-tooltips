@@ -964,6 +964,7 @@
   "filled_map.scale": "\uef61 Scaling at 1:%s",
   "filled_map.level": "   (Level %s/%s)",
 
+  "book.byAuthor": "\uef5b by %1$s",
   "book.generation.0": "§b\uef62 Original",
   "book.generation.1": "§9\uef63 Copy of original",
   "book.generation.2": "§1\uef64 Copy of a copy",

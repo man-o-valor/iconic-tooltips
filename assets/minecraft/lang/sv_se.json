@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e Gula taggar upptill",
   "block.minecraft.spawner.desc1": "§7 Interaktion med skapelseägg:",
   "block.minecraft.spawner.desc2": "§8 Ändrar varelsetypen",
+  "book.byAuthor": " av %1$s",
   "book.generation.0": "§b Original",
   "book.generation.1": "§9 Kopia av originalet",
   "book.generation.2": "§1 Kopia av en kopia",

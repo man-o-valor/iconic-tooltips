@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e Keltainen hammaskoroinen lakio",
   "block.minecraft.spawner.desc1": "§7 Käytä luomismunaa:",
   "block.minecraft.spawner.desc2": "§8 Asettaa olennon tyypin",
+  "book.byAuthor": " kirjoittanut %1$s",
   "book.generation.0": "§b Alkuperäinen",
   "book.generation.1": "§9 Alkuperäisen kopio",
   "book.generation.2": "§1 Kopion kopio",

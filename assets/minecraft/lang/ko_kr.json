@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e 노란색 위쪽 톱니 모양",
   "block.minecraft.spawner.desc1": "§7 생성 알을 든 채 사용:",
   "block.minecraft.spawner.desc2": "§8 몹 유형 설정",
+  "book.byAuthor": " %1$s이(가) 씀",
   "book.generation.0": "§b 원본",
   "book.generation.1": "§9 원본의 복사본",
   "book.generation.2": "§1 복사본의 복사본",

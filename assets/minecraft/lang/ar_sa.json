@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e مثلثات علوية صفراء",
   "block.minecraft.spawner.desc1": "§7 التفاعل مع بيضة المخلوقات:",
   "block.minecraft.spawner.desc2": "§8 يحدد نوع المخلوق",
+  "book.byAuthor": " بواسطة %1$s",
   "book.generation.0": "§b الأصلي",
   "book.generation.1": "§9 نسخة من الأصلي",
   "book.generation.2": "§1 نسخة من نسخة",

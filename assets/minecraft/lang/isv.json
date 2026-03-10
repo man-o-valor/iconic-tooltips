@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e Žolta vrhna linija s odstupom",
   "block.minecraft.spawner.desc1": "§7 Interakcija s jajcem:",
   "block.minecraft.spawner.desc2": "§8 Ustavja tip stvorjenja",
+  "book.byAuthor": " Avtor: %1$s",
   "book.generation.0": "§b Originalna",
   "book.generation.1": "§9 Kopija originalnoj",
   "book.generation.2": "§1 Kopija kopije",

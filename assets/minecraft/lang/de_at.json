@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e Gelbs gspicklta Bannakopf",
   "block.minecraft.spawner.desc1": "§7 Mit Spawn-Ei interagieren:",
   "block.minecraft.spawner.desc2": "§8 Setzt den Mob-Typ",
+  "book.byAuthor": " von %1$s",
   "book.generation.0": "§b Original",
   "book.generation.1": "§9 Kopie vom Original",
   "book.generation.2": "§1 Kopie von ana Kopie",

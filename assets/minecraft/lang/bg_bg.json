@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e Жълти горни зъбци",
   "block.minecraft.spawner.desc1": "§7 Взаимодейства с призоваващо яйце:",
   "block.minecraft.spawner.desc2": "§8 Задава тип на моб",
+  "book.byAuthor": " от %1$s",
   "book.generation.0": "§b Оригинал",
   "book.generation.1": "§9 Копие",
   "book.generation.2": "§1 Копие на копие",

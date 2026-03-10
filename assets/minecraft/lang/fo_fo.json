@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e Gulir tindar ovast",
   "block.minecraft.spawner.desc1": "§7 Nýt framkallingaregg:",
   "block.minecraft.spawner.desc2": "§8 Setur veruslag",
+  "book.byAuthor": " av %1$s",
   "book.generation.0": "§b Upprunaliga",
   "book.generation.1": "§9 Avrit av upprunaliga",
   "book.generation.2": "§1 Avrit av avriti",

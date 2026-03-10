@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e Yellow Sawtoothed Top",
   "block.minecraft.spawner.desc1": "§7 Brooking Making Ey:",
   "block.minecraft.spawner.desc2": "§8 Sets Wight Kind",
+  "book.byAuthor": " by %1$s",
   "book.generation.0": "§b First Book",
   "book.generation.1": "§9 Clove of first book",
   "book.generation.2": "§1 Clove of a clove",

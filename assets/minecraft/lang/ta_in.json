@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e மஞ்சள் தலைமை உள்தள்ளப்பட்டது",
   "block.minecraft.spawner.desc1": "§7 Interact with Spawn Egg:",
   "block.minecraft.spawner.desc2": "§8 Sets Mob Type",
+  "book.byAuthor": " மூலம் %1$s",
   "book.generation.0": "§b அசல்",
   "book.generation.1": "§9 அசல் நகல்",
   "book.generation.2": "§1 ஒரு நகல் நகல்",

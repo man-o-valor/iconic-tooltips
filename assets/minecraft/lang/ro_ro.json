@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e Șef galben dințat",
   "block.minecraft.spawner.desc1": "§7 Interacționează cu ouăle generatoare:",
   "block.minecraft.spawner.desc2": "§8 Setează tipul de creatură",
+  "book.byAuthor": " de %1$s",
   "book.generation.0": "§b Original",
   "book.generation.1": "§9 Copie a originalului",
   "book.generation.2": "§1 Copie a unei copii",

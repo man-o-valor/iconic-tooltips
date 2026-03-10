@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e ಹಳದಿ ಮುಖ್ಯ ಇಂಡೆಂಟ್ ಮಾಡಲಾಗಿದೆ",
   "block.minecraft.spawner.desc1": "§7 Interact with Spawn Egg:",
   "block.minecraft.spawner.desc2": "§8 Sets Mob Type",
+  "book.byAuthor": " % 1 $ s ನಿಂದ",
   "book.generation.0": "§b ಮೂಲ",
   "book.generation.1": "§9 ಮೂಲದ ಪ್ರತಿ",
   "book.generation.2": "§1 ನಕಲಿನ ಪ್ರತಿ",

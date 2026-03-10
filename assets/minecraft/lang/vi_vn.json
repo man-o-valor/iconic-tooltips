@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e Hình răng cưa màu vàng ở góc trên",
   "block.minecraft.spawner.desc1": "§7 Tương tác với trứng sinh ra:",
   "block.minecraft.spawner.desc2": "§8 Đặt loại sinh vật",
+  "book.byAuthor": " bởi %1$s",
   "book.generation.0": "§b Bản gốc",
   "book.generation.1": "§9 Bản sao của bản gốc",
   "book.generation.2": "§1 Bản sao của bản sao",

@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e 上側黃色鋸齒",
   "block.minecraft.spawner.desc1": "§7 用生怪蛋互動時：",
   "block.minecraft.spawner.desc2": "§8 設定生物種類",
+  "book.byAuthor": " 作者 %1$s",
   "book.generation.0": "§b 原始版本",
   "book.generation.1": "§9 複本",
   "book.generation.2": "§1 複本的複本",

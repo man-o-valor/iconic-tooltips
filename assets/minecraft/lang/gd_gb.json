@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e Bàrr eagach buidhe",
   "block.minecraft.spawner.desc1": "§7 Nuair a bhios tu ag eadar-obrachadh le Ugh Gintinn:",
   "block.minecraft.spawner.desc2": "§8 A 'suidheachadh seòrsa mob",
+  "book.byAuthor": " le %1$s",
   "book.generation.0": "§b Tùsail",
   "book.generation.1": "§9 Lethbhreac den fhear thùsail",
   "book.generation.2": "§1 Lethbhreac de lethbhreac",

@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e Сары тешле баш",
   "block.minecraft.spawner.desc1": "§7 Чакыру йомыркасы белән эш ителгәндә:",
   "block.minecraft.spawner.desc2": "§8 Моб төрен билгели",
+  "book.byAuthor": " Автор: %1$s",
   "book.generation.0": "§b Төп нөсхә",
   "book.generation.1": "§9 Төп нөсхә күчермәсе",
   "book.generation.2": "§1 Күчермә күчермәсе",

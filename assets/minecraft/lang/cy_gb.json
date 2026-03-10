@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e Siff Rasyd Melyn",
   "block.minecraft.spawner.desc1": "§7 Rhyngweithio ag Wy Geni:",
   "block.minecraft.spawner.desc2": "§8 Gosod Math o Greadur",
+  "book.byAuthor": " gan %1$s",
   "book.generation.0": "§b Gwreiddiol",
   "book.generation.1": "§9 Copi o'r gwreiddiol",
   "book.generation.2": "§1 Copi o gopi",

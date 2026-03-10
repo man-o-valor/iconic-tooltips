@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e Geeles sprööges Bannerhoupt",
   "block.minecraft.spawner.desc1": "§7 Interact with Spawn Egg:",
   "block.minecraft.spawner.desc2": "§8 Sets Mob Type",
+  "book.byAuthor": " vun %1$s",
   "book.generation.0": "§b Originaal",
   "book.generation.1": "§9 Kopi vun’n Originaal",
   "book.generation.2": "§1 Kopi van ne Kopi",

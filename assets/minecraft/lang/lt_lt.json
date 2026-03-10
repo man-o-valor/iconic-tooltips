@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e Geltonos bangelės viršuje",
   "block.minecraft.spawner.desc1": "§7 Panaudoti padaro kiaušinį:",
   "block.minecraft.spawner.desc2": "§8 Nustato padaro tipą",
+  "book.byAuthor": " autorius: %1$s",
   "book.generation.0": "§b Originalas",
   "book.generation.1": "§9 Originalo kopija",
   "book.generation.2": "§1 Kopijos kopija",

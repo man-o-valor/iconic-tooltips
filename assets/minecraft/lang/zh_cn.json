@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e 黄色顶波纹",
   "block.minecraft.spawner.desc1": "§7 用刷怪蛋交互时：",
   "block.minecraft.spawner.desc2": "§8 设置生物种类",
+  "book.byAuthor": " %1$s 著",
   "book.generation.0": "§b 原稿",
   "book.generation.1": "§9 原稿的副本",
   "book.generation.2": "§1 副本的副本",

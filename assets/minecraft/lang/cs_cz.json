@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e Žlutý horní obloučkový lem",
   "block.minecraft.spawner.desc1": "§7 Interakce s vajíčkem se stvořením:",
   "block.minecraft.spawner.desc2": "§8 Nastaví typ stvoření",
+  "book.byAuthor": " napsal %1$s",
   "book.generation.0": "§b Originál",
   "book.generation.1": "§9 Kopie originálu",
   "book.generation.2": "§1 Kopie kopie",

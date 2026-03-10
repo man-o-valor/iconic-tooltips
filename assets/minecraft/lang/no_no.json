@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e Gult tannsnitt i skjoldhodet",
   "block.minecraft.spawner.desc1": "§7 Benytt fremkallingsegg:",
   "block.minecraft.spawner.desc2": "§8 Setter skapningstype",
+  "book.byAuthor": " av %1$s",
   "book.generation.0": "§b Original",
   "book.generation.1": "§9 Kopi av original",
   "book.generation.2": "§1 Kopi av kopi",

@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e Žltá zúbkovaná hlava",
   "block.minecraft.spawner.desc1": "§7 Interakcia s vajíčkom stvorenia:",
   "block.minecraft.spawner.desc2": "§8 Nastaví typ tvora",
+  "book.byAuthor": " Autor %1$s",
   "book.generation.0": "§b Originál",
   "book.generation.1": "§9 Kópia originálu",
   "book.generation.2": "§1 Kópia kópie",

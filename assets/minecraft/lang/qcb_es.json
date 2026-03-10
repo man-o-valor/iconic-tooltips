@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e Dentáu amarillu",
   "block.minecraft.spawner.desc1": "§7 Interatúa con un güevu generaor:",
   "block.minecraft.spawner.desc2": "§8 Estableci'l tipu de criatura",
+  "book.byAuthor": " por %1$s",
   "book.generation.0": "§b Original",
   "book.generation.1": "§9 Copia del uriginal",
   "book.generation.2": "§1 Copia d'una copia",

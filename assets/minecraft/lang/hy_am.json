@@ -689,6 +689,7 @@
   "block.minecraft.banner.triangles_top.yellow": "§e Դեղին Ղեկավար",
   "block.minecraft.spawner.desc1": "§7 Փոխազդել ծնելու ձվի հետ․",
   "block.minecraft.spawner.desc2": "§8 Սահամնել Մոբի Տեսկաը",
+  "book.byAuthor": " %1$s-ի կողմից",
   "book.generation.0": "§b Բնագիր",
   "book.generation.1": "§9 Նախնականի պատճենը",
   "book.generation.2": "§1 Պատճենի պատճենը",

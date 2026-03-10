@@ -2,6 +2,15 @@
 	"providers": [
 		{
 			"type": "bitmap",
+			"file": "minecraft:misc/icon-ui-arrow.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\uef22"
+			]
+		},
+		{
+			"type": "bitmap",
 			"file": "minecraft:misc/icon-firework-flightduration.png",
 			"ascent": 8,
 			"height": 16,

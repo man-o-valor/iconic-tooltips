@@ -1,8 +1,8 @@
 {
   "pack": {
-    "pack_format": 86,
+    "pack_format": 84,
     "min_format": 15,
-    "max_format": 86,
+    "max_format": 84,
     "description": "Adds colors and icons to the tooltips of every item in the game!"
   }
 }

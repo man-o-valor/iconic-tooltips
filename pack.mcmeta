@@ -4,6 +4,6 @@
     "min_format": [15,0],
     "max_format": [999,0],
     "supported_formats": [15, 999],
-    "description": "Adds §6colors§r and §eicons§6 to the tooltips of §6every item in the game!"
+    "description": "Adds §6colors§r and §eicons§r to the tooltips of §6every item!"
   }
 }

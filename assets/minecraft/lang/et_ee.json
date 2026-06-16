@@ -1,5 +1,5 @@
 {
-  "block.minecraft.spawner.desc1": "§7 Kasuta peal sünnimuna:",
+  "block.minecraft.spawner.desc1": "§7 Kasutades sellel sünnimuna:",
   "block.minecraft.spawner.desc2": "§8 Määrab elukatüübi",
   "book.byAuthor": " autorilt %1$s",
   "book.generation.0": "§b Originaalne",
@@ -87,6 +87,7 @@
   "item.minecraft.music_disc_13.desc": "§e C418 - 13",
   "item.minecraft.music_disc_5.desc": "§3 Samuel Åberg - 5",
   "item.minecraft.music_disc_blocks.desc": "§c C418 - blocks",
+  "item.minecraft.music_disc_bounce.desc": "§e fingerspit - Bounce",
   "item.minecraft.music_disc_cat.desc": "§a C418 - cat",
   "item.minecraft.music_disc_chirp.desc": "§4 C418 - chirp",
   "item.minecraft.music_disc_creator.desc": "§3 Lena Raine - Creator",
@@ -141,6 +142,7 @@
   "jukebox_song.minecraft.13": "§e C418 - 13",
   "jukebox_song.minecraft.5": "§3 Samuel Åberg - 5",
   "jukebox_song.minecraft.blocks": "§c C418 - blocks",
+  "jukebox_song.minecraft.bounce": "§e fingerspit - Bounce",
   "jukebox_song.minecraft.cat": "§a C418 - cat",
   "jukebox_song.minecraft.chirp": "§4 C418 - chirp",
   "jukebox_song.minecraft.creator": "§3 Lena Raine - Creator",

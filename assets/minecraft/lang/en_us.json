@@ -1086,6 +1086,7 @@
   "block.minecraft.spawner.desc1": "§7\uef2d Interact with Spawn Egg:",
   "block.minecraft.spawner.desc2": "§8\uef6a Sets Mob Type",
 
+  "enchantment.level.1": "§f1",
   "enchantment.level.2": "§f2",
   "enchantment.level.3": "§f3",
   "enchantment.level.4": "§f4",
@@ -1148,5 +1149,7 @@
   "enchantment.minecraft.thorns": "§b\uef23 Thorns",
   "enchantment.minecraft.unbreaking": "§d\uef6d Unbreaking",
   "enchantment.minecraft.vanishing_curse": "§8\uefa4 Curse of Vanishing",
-  "enchantment.minecraft.wind_burst": "§1\uefad Wind Burst"
+  "enchantment.minecraft.wind_burst": "§1\uefad Wind Burst",
+
+  "entity.minecraft.sulfur_cube.content": "§e\uefaf Contains: %s"
 }

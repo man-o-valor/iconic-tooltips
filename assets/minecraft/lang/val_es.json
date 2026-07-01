@@ -1,4 +1,5 @@
 {
+  "enchantment.level.1": "§f1",
   "enchantment.level.10": "§f10",
   "enchantment.level.2": "§f2",
   "enchantment.level.3": "§f3",
@@ -25,7 +26,7 @@
   "enchantment.minecraft.frost_walker": "§b Peus gelats",
   "enchantment.minecraft.impaling": "§3 Arpó",
   "enchantment.minecraft.infinity": "§e Fletxes infinites",
-  "enchantment.minecraft.knockback": "§c Retrocés",
+  "enchantment.minecraft.knockback": "§c Espenta",
   "enchantment.minecraft.looting": "§c Saqueig",
   "enchantment.minecraft.loyalty": "§3 Lleialtat",
   "enchantment.minecraft.luck_of_the_sea": "§5 La sort de la mar",

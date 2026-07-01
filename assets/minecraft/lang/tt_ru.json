@@ -1,4 +1,5 @@
 {
+  "enchantment.level.1": "§f1",
   "enchantment.level.10": "§f10",
   "enchantment.level.2": "§f2",
   "enchantment.level.3": "§f3",
@@ -43,7 +44,7 @@
   "enchantment.minecraft.riptide": "§3 Эләктерү",
   "enchantment.minecraft.sharpness": "§c Үткенлек",
   "enchantment.minecraft.silk_touch": "§a Ефәк тию",
-  "enchantment.minecraft.smite": "§c Чәнчү",
+  "enchantment.minecraft.smite": "§c Җәзалау",
   "enchantment.minecraft.soul_speed": "§b Җан тизлеге",
   "enchantment.minecraft.sweeping": "§c Киң кырый",
   "enchantment.minecraft.sweeping_edge": "§c Киң кырый",

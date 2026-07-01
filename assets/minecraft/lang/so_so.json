@@ -1,4 +1,5 @@
 {
+  "enchantment.level.1": "§f1",
   "enchantment.level.10": "§f10",
   "enchantment.level.2": "§f2",
   "enchantment.level.3": "§f3",
@@ -44,7 +45,7 @@
   "enchantment.minecraft.sharpness": "§c Afaysan",
   "enchantment.minecraft.silk_touch": "§a Taabashada Xariirta",
   "enchantment.minecraft.smite": "§c Ku dhufo",
-  "enchantment.minecraft.soul_speed": "§b Xawaaraha Soul\n",
+  "enchantment.minecraft.soul_speed": "§b Soul Speed",
   "enchantment.minecraft.sweeping": "§c Cidhif Xaaqid",
   "enchantment.minecraft.sweeping_edge": "§c Sweeping Edge",
   "enchantment.minecraft.swift_sneak": "§b Degdeg ah Dhuumasho",

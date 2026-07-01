@@ -1,4 +1,5 @@
 {
+  "enchantment.level.1": "§f1",
   "enchantment.level.10": "§f10",
   "enchantment.level.2": "§f2",
   "enchantment.level.3": "§f3",
@@ -12,8 +13,8 @@
   "enchantment.minecraft.bane_of_arthropods": "§c Velea artrópoda",
   "enchantment.minecraft.binding_curse": "§8 Maldición d'atadura",
   "enchantment.minecraft.blast_protection": "§b Antiespañíos",
-  "enchantment.minecraft.breach": "§1 Breach",
-  "enchantment.minecraft.channeling": "§3 Channeling",
+  "enchantment.minecraft.breach": "§1 Perforación",
+  "enchantment.minecraft.channeling": "§3 Canalización",
   "enchantment.minecraft.density": "§1 Densidá",
   "enchantment.minecraft.depth_strider": "§b Axilidá acuático",
   "enchantment.minecraft.efficiency": "§a Eficiencia",
@@ -29,7 +30,7 @@
   "enchantment.minecraft.looting": "§c Saquéu",
   "enchantment.minecraft.loyalty": "§3 Llealtá",
   "enchantment.minecraft.luck_of_the_sea": "§5 Suerte de la mar",
-  "enchantment.minecraft.lunge": "§9 Lunge",
+  "enchantment.minecraft.lunge": "§9 Estocada",
   "enchantment.minecraft.lure": "§5 Cebu",
   "enchantment.minecraft.mending": "§d Igua",
   "enchantment.minecraft.multishot": "§6 Multitiru",
@@ -46,10 +47,10 @@
   "enchantment.minecraft.smite": "§c Redención",
   "enchantment.minecraft.soul_speed": "§b Velocidá d'ánimes",
   "enchantment.minecraft.sweeping": "§c Filu atropador",
-  "enchantment.minecraft.sweeping_edge": "§c Sweeping Edge",
-  "enchantment.minecraft.swift_sneak": "§b Swift Sneak",
+  "enchantment.minecraft.sweeping_edge": "§c Filu Barríu",
+  "enchantment.minecraft.swift_sneak": "§b Sigilo Rápidu",
   "enchantment.minecraft.thorns": "§b Escayos",
   "enchantment.minecraft.unbreaking": "§d Durabilidá",
   "enchantment.minecraft.vanishing_curse": "§8 Maldición de desapaición",
-  "enchantment.minecraft.wind_burst": "§1 Wind Burst"
+  "enchantment.minecraft.wind_burst": "§1 Españíu de vientu"
 }

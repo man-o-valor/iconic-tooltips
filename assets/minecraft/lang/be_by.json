@@ -1,4 +1,5 @@
 {
+  "enchantment.level.1": "§f1",
   "enchantment.level.10": "§f10",
   "enchantment.level.2": "§f2",
   "enchantment.level.3": "§f3",
@@ -37,10 +38,10 @@
   "enchantment.minecraft.power": "§e Моц",
   "enchantment.minecraft.projectile_protection": "§b Ахова ад снарадаў",
   "enchantment.minecraft.protection": "§b Ахова",
-  "enchantment.minecraft.punch": "§e Адштурхванне",
+  "enchantment.minecraft.punch": "§e Штуршок",
   "enchantment.minecraft.quick_charge": "§6 Хуткая перазарадка",
   "enchantment.minecraft.respiration": "§b Падводнае дыханне",
-  "enchantment.minecraft.riptide": "§3 Цягач",
+  "enchantment.minecraft.riptide": "§3 Цягун",
   "enchantment.minecraft.sharpness": "§c Вастрыня",
   "enchantment.minecraft.silk_touch": "§a Шаўковы дотык",
   "enchantment.minecraft.smite": "§c Паражэнне мерцвякоў",
@@ -51,5 +52,5 @@
   "enchantment.minecraft.thorns": "§b Калючкі",
   "enchantment.minecraft.unbreaking": "§d Мацунак",
   "enchantment.minecraft.vanishing_curse": "§8 Праклён знікнення",
-  "enchantment.minecraft.wind_burst": "§1 Парыў"
+  "enchantment.minecraft.wind_burst": "§1 Парыў ветру"
 }

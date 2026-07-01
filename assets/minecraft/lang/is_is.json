@@ -1,4 +1,5 @@
 {
+  "enchantment.level.1": "§f1",
   "enchantment.level.10": "§f10",
   "enchantment.level.2": "§f2",
   "enchantment.level.3": "§f3",
@@ -29,7 +30,7 @@
   "enchantment.minecraft.looting": "§c Þjófnaður",
   "enchantment.minecraft.loyalty": "§3 Tryggð",
   "enchantment.minecraft.luck_of_the_sea": "§5 Heppni Hafsins",
-  "enchantment.minecraft.lunge": "§9 Lunge",
+  "enchantment.minecraft.lunge": "§9 Lag",
   "enchantment.minecraft.lure": "§5 Beita",
   "enchantment.minecraft.mending": "§d Heilun",
   "enchantment.minecraft.multishot": "§6 Hríðskot",

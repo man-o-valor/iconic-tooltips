@@ -1,4 +1,5 @@
 {
+  "enchantment.level.1": "§f1",
   "enchantment.level.10": "§f10",
   "enchantment.level.2": "§f2",
   "enchantment.level.3": "§f3",
@@ -22,7 +23,7 @@
   "enchantment.minecraft.fire_protection": "§b Perlindoengan Api",
   "enchantment.minecraft.flame": "§e Njala Api",
   "enchantment.minecraft.fortune": "§a Keberoentoengan",
-  "enchantment.minecraft.frost_walker": "§b Pengaroeng Iboen",
+  "enchantment.minecraft.frost_walker": "§b Pengaroeng Kebekoean",
   "enchantment.minecraft.impaling": "§3 Menikam",
   "enchantment.minecraft.infinity": "§e Ananta",
   "enchantment.minecraft.knockback": "§c Tolakan",

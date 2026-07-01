@@ -1,4 +1,5 @@
 {
+  "enchantment.level.1": "§f1",
   "enchantment.level.10": "§f10",
   "enchantment.level.2": "§f2",
   "enchantment.level.3": "§f3",
@@ -33,7 +34,7 @@
   "enchantment.minecraft.lure": "§5 Eace",
   "enchantment.minecraft.mending": "§d Fettling",
   "enchantment.minecraft.multishot": "§6 Manishot",
-  "enchantment.minecraft.piercing": "§6 Throughshot",
+  "enchantment.minecraft.piercing": "§6 Thirling",
   "enchantment.minecraft.power": "§e Might",
   "enchantment.minecraft.projectile_protection": "§b Shot Shielding",
   "enchantment.minecraft.protection": "§b Shielding",

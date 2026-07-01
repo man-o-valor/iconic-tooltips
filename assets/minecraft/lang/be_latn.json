@@ -1,4 +1,5 @@
 {
+  "enchantment.level.1": "§f1",
   "enchantment.level.10": "§f10",
   "enchantment.level.2": "§f2",
   "enchantment.level.3": "§f3",
@@ -29,7 +30,7 @@
   "enchantment.minecraft.looting": "§c Maradziorstva",
   "enchantment.minecraft.loyalty": "§3 Viernasć",
   "enchantment.minecraft.luck_of_the_sea": "§5 Marskaja ŭdača",
-  "enchantment.minecraft.lunge": "§9 Vypad",
+  "enchantment.minecraft.lunge": "§9 Ryvok",
   "enchantment.minecraft.lure": "§5 Prynada",
   "enchantment.minecraft.mending": "§d Ramont",
   "enchantment.minecraft.multishot": "§6 Załp",
@@ -51,5 +52,5 @@
   "enchantment.minecraft.thorns": "§b Kalučki",
   "enchantment.minecraft.unbreaking": "§d Macunak",
   "enchantment.minecraft.vanishing_curse": "§8 Praklon znikniennia",
-  "enchantment.minecraft.wind_burst": "§1 Paryŭ"
+  "enchantment.minecraft.wind_burst": "§1 Paryŭ vietru"
 }

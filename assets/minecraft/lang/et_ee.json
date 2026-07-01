@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %s x%s",
   "container.shulkerBox.more": "§8 ja veel %s...",
   "container.shulkerBox.unknownContents": "§7??????? ???????",
+  "entity.minecraft.sulfur_cube.content": "§e Sisaldab: %s",
   "entity.minecraft.tropical_fish.predefined.0": "§6 Anemoon",
   "entity.minecraft.tropical_fish.predefined.1": "§8 Must sebrasoom",
   "entity.minecraft.tropical_fish.predefined.10": "§7 Viirkala",

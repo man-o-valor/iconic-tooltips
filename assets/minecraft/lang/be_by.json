@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %s x%s",
   "container.shulkerBox.more": "§8 і яшчэ %s…",
   "container.shulkerBox.unknownContents": "§7??????? ???????",
+  "entity.minecraft.sulfur_cube.content": "§e Змяшчае: %s",
   "entity.minecraft.tropical_fish.predefined.0": "§6 Амфіпрыён",
   "entity.minecraft.tropical_fish.predefined.1": "§8 Чорная зебрасома",
   "entity.minecraft.tropical_fish.predefined.10": "§7 Маўрытанскі ідал",

@@ -308,5 +308,7 @@
   "item.minecraft.bundle.empty.description": "\uef24 Can hold a mixed stack of items",
 
   "block.minecraft.spawner.desc1": "§7\uef2d Interact with Spawn Egg:",
-  "block.minecraft.spawner.desc2": "§8\uef6a Sets Mob Type"
+  "block.minecraft.spawner.desc2": "§8\uef6a Sets Mob Type",
+
+  "entity.minecraft.sulfur_cube.content": "§e\uefaf Contains: %s"
 }

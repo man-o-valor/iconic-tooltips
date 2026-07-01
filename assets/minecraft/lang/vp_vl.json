@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %s x%s",
   "container.shulkerBox.more": "§8 au %s plus...",
   "container.shulkerBox.unknownContents": "§7??????? ???????",
+  "entity.minecraft.sulfur_cube.content": "§e Inne har: %s",
   "entity.minecraft.tropical_fish.predefined.0": "§6 Hentaijalakanen",
   "entity.minecraft.tropical_fish.predefined.1": "§8 Kurosakana",
   "entity.minecraft.tropical_fish.predefined.10": "§7 Tolsakana",

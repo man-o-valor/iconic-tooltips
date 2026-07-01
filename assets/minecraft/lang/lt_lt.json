@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %s x%s",
   "container.shulkerBox.more": "§8 ir dar %s...",
   "container.shulkerBox.unknownContents": "§7??????? ???????",
+  "entity.minecraft.sulfur_cube.content": "§e Savyje turi: %s",
   "entity.minecraft.tropical_fish.predefined.0": "§6 Rausvapelekis jūrų klounas",
   "entity.minecraft.tropical_fish.predefined.1": "§8 Juodoji chirurgžuvė",
   "entity.minecraft.tropical_fish.predefined.10": "§7 Musulmonžuvė",

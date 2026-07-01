@@ -775,6 +775,15 @@
 			"chars": [
 				"\uef7e"
 			]
+		},
+				{
+			"type": "bitmap",
+			"file": "minecraft:misc/icon-sulfurcube.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\uefaf"
+			]
 		}
 	]
 }

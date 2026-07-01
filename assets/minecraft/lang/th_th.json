@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %s x%s",
   "container.shulkerBox.more": "§8 และเพิ่มเติมอีก %s รายการ...",
   "container.shulkerBox.unknownContents": "§7??????? ???????",
+  "entity.minecraft.sulfur_cube.content": "§e บรรจุ: %s",
   "entity.minecraft.tropical_fish.predefined.0": "§6 ปลาการ์ตูน",
   "entity.minecraft.tropical_fish.predefined.1": "§8 ปลาขี้ตังเบ็ดดำ",
   "entity.minecraft.tropical_fish.predefined.10": "§7 ปลาโนรีเทวรูป",

@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %s x%s",
   "container.shulkerBox.more": "§8 agus %s a bharrachd...",
   "container.shulkerBox.unknownContents": "§7??????? ???????",
+  "entity.minecraft.sulfur_cube.content": "§e Contains: %s",
   "entity.minecraft.tropical_fish.predefined.0": "§6 Iasg cìoch na mnà-sìthe",
   "entity.minecraft.tropical_fish.predefined.1": "§8 Tanga dubh",
   "entity.minecraft.tropical_fish.predefined.10": "§7 Iodhal mùrach",

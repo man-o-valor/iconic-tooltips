@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %s x%s",
   "container.shulkerBox.more": "§8 dhe %s me shumë...",
   "container.shulkerBox.unknownContents": "§7??????? ???????",
+  "entity.minecraft.sulfur_cube.content": "§e Përmban: %s",
   "entity.minecraft.tropical_fish.predefined.0": "§6 Peshku klloun portokalli",
   "entity.minecraft.tropical_fish.predefined.1": "§8 Peshku kirurg i zi",
   "entity.minecraft.tropical_fish.predefined.10": "§7 Peshk mbajtësi i flamurit me brirë",

@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %s x%s",
   "container.shulkerBox.more": "§8 ja %s lisää...",
   "container.shulkerBox.unknownContents": "§7??????? ???????",
+  "entity.minecraft.sulfur_cube.content": "§e Sisältää: %s",
   "entity.minecraft.tropical_fish.predefined.0": "§6 Vuokkokala",
   "entity.minecraft.tropical_fish.predefined.1": "§8 Nokkavälskäri",
   "entity.minecraft.tropical_fish.predefined.10": "§7 Sarvikala",

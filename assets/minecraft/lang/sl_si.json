@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %s x%s",
   "container.shulkerBox.more": "§8 in %s več...",
   "container.shulkerBox.unknownContents": "§7??????? ???????",
+  "entity.minecraft.sulfur_cube.content": "§e Vsebuje: %s",
   "entity.minecraft.tropical_fish.predefined.0": "§6 Klovnska riba",
   "entity.minecraft.tropical_fish.predefined.1": "§8 Črni kirurg",
   "entity.minecraft.tropical_fish.predefined.10": "§7 Rogačica",

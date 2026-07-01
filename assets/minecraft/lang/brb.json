@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %s ×%s",
   "container.shulkerBox.more": "§8 en nug %s...",
   "container.shulkerBox.unknownContents": "§7??????? ???????",
+  "entity.minecraft.sulfur_cube.content": "§e Bevat: %s",
   "entity.minecraft.tropical_fish.predefined.0": "§6 Anemoonvès",
   "entity.minecraft.tropical_fish.predefined.1": "§8 Zwerte zeilvindoktersvès",
   "entity.minecraft.tropical_fish.predefined.10": "§7 Maskerwimpelvès",

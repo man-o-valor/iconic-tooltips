@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %s x%s",
   "container.shulkerBox.more": "§8 và %s thứ nữa...",
   "container.shulkerBox.unknownContents": "§7??????? ???????",
+  "entity.minecraft.sulfur_cube.content": "§e Có chứa: %s",
   "entity.minecraft.tropical_fish.predefined.0": "§6 Cá hề vây da cam",
   "entity.minecraft.tropical_fish.predefined.1": "§8 Cá đuôi gai mũi dài",
   "entity.minecraft.tropical_fish.predefined.10": "§7 Cá thù lù",

@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %s x%s",
   "container.shulkerBox.more": "§8 ati %s siwaju sii...",
   "container.shulkerBox.unknownContents": "§7??????? ???????",
+  "entity.minecraft.sulfur_cube.content": "§e Contains: %s",
   "entity.minecraft.tropical_fish.predefined.0": "§6 Anemone",
   "entity.minecraft.tropical_fish.predefined.1": "§8 Black Tang",
   "entity.minecraft.tropical_fish.predefined.10": "§7 Oriṣa Moorish",

@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %s x%s",
   "container.shulkerBox.more": "§8 a %s mwy...",
   "container.shulkerBox.unknownContents": "§7??????? ???????",
+  "entity.minecraft.sulfur_cube.content": "§e Yn cynnwys: %s",
   "entity.minecraft.tropical_fish.predefined.0": "§6 Anemoni",
   "entity.minecraft.tropical_fish.predefined.1": "§8 Tang Du",
   "entity.minecraft.tropical_fish.predefined.10": "§7 Eilun Mwraidd",

@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %2$s %1$s",
   "container.shulkerBox.more": "§8 és még %s...",
   "container.shulkerBox.unknownContents": "§7??????? ???????",
+  "entity.minecraft.sulfur_cube.content": "§e Tartalom: %s",
   "entity.minecraft.tropical_fish.predefined.0": "§6 Korallsügér",
   "entity.minecraft.tropical_fish.predefined.1": "§8 Hamuszín doktorhal",
   "entity.minecraft.tropical_fish.predefined.10": "§7 Zászlóshal",

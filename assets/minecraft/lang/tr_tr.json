@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %s x%s",
   "container.shulkerBox.more": "§8 ve %s tane daha...",
   "container.shulkerBox.unknownContents": "§7??????? ???????",
+  "entity.minecraft.sulfur_cube.content": "§e İçeriği: %s",
   "entity.minecraft.tropical_fish.predefined.0": "§6 Palyaço Balığı",
   "entity.minecraft.tropical_fish.predefined.1": "§8 Siyah Cerrahbalığı",
   "entity.minecraft.tropical_fish.predefined.10": "§7 Mağribi idol",

@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %s x %s",
   "container.shulkerBox.more": "§8 e %s de pus...",
   "container.shulkerBox.unknownContents": "§7??????? ???????",
+  "entity.minecraft.sulfur_cube.content": "§e En deden : %s",
   "entity.minecraft.tropical_fish.predefined.0": "§6 Paissard",
   "entity.minecraft.tropical_fish.predefined.1": "§8 Surjien nair",
   "entity.minecraft.tropical_fish.predefined.10": "§7 Zancl a cônes",

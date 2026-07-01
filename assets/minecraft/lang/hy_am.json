@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %s x%s",
   "container.shulkerBox.more": "§8 եւ %s ավել…",
   "container.shulkerBox.unknownContents": "§7??????? ՞՞՞՞՞՞՞",
+  "entity.minecraft.sulfur_cube.content": "§e Պարունակում է՝ %s",
   "entity.minecraft.tropical_fish.predefined.0": "§6 Ժովապուտ",
   "entity.minecraft.tropical_fish.predefined.1": "§8 Սև տանգ",
   "entity.minecraft.tropical_fish.predefined.10": "§7 Մոուրիշ կուռք",

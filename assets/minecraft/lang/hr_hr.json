@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %s ×%s",
   "container.shulkerBox.more": "§8 i još %s više...",
   "container.shulkerBox.unknownContents": "§7??????? ???????",
+  "entity.minecraft.sulfur_cube.content": "§e Sadrži: %s",
   "entity.minecraft.tropical_fish.predefined.0": "§6 Anemona",
   "entity.minecraft.tropical_fish.predefined.1": "§8 Crni tang",
   "entity.minecraft.tropical_fish.predefined.10": "§7 Maurov idol",

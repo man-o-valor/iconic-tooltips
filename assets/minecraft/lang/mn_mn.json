@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %s x%s",
   "container.shulkerBox.more": "§8 болон дахиад %s...",
   "container.shulkerBox.unknownContents": "§7??????? ???????",
+  "entity.minecraft.sulfur_cube.content": "§e Агууламж: %s",
   "entity.minecraft.tropical_fish.predefined.0": "§6 Алиалагч загас",
   "entity.minecraft.tropical_fish.predefined.1": "§8 Хар тан загас",
   "entity.minecraft.tropical_fish.predefined.10": "§7 Моориш шүтээн",

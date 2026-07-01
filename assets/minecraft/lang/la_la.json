@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %2$s %1$s",
   "container.shulkerBox.more": "§8 et %s plures...",
   "container.shulkerBox.unknownContents": "§7??????? ???????",
+  "entity.minecraft.sulfur_cube.content": "§e Continet: %s",
   "entity.minecraft.tropical_fish.predefined.0": "§6 Amphiprion percula",
   "entity.minecraft.tropical_fish.predefined.1": "§8 Zebrasoma rostratum",
   "entity.minecraft.tropical_fish.predefined.10": "§7 Zanclus cornutus",

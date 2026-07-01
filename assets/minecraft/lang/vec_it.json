@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %s × %s",
   "container.shulkerBox.more": "§8 e antri %s...",
   "container.shulkerBox.unknownContents": "§7??????? ???????",
+  "entity.minecraft.sulfur_cube.content": "§e El conten:%s",
   "entity.minecraft.tropical_fish.predefined.0": "§6 Anèmone",
   "entity.minecraft.tropical_fish.predefined.1": "§8 Pese chirurgo moro",
   "entity.minecraft.tropical_fish.predefined.10": "§7 Zanclìdi",

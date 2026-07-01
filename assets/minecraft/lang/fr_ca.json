@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %2$s × %1$s",
   "container.shulkerBox.more": "§8 et %s de plus...",
   "container.shulkerBox.unknownContents": "§7??????? ???????",
+  "entity.minecraft.sulfur_cube.content": "§e Contient : %s",
   "entity.minecraft.tropical_fish.predefined.0": "§6 Poisson-clown à nageoires orange",
   "entity.minecraft.tropical_fish.predefined.1": "§8 Chirurgien à rostre",
   "entity.minecraft.tropical_fish.predefined.10": "§7 Zancle cornu",

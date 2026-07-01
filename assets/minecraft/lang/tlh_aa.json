@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %2$s %1$s",
   "container.shulkerBox.more": "§8 %s latlh je...",
   "container.shulkerBox.unknownContents": "§7??????? Sovbe'lu'",
+  "entity.minecraft.sulfur_cube.content": "§e %s ngaS",
   "entity.minecraft.tropical_fish.predefined.0": "§6 'anemonIy ghotI'",
   "entity.minecraft.tropical_fish.predefined.1": "§8 bIlaq teng ghotI'",
   "entity.minecraft.tropical_fish.predefined.10": "§7 mor'IS 'ayDol ghotI'",

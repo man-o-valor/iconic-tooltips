@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %s x%s",
   "container.shulkerBox.more": "§8 ijo %s kin...",
   "container.shulkerBox.unknownContents": "§7??????? ???????",
+  "entity.minecraft.sulfur_cube.content": "§e jo insa: %s",
   "entity.minecraft.tropical_fish.predefined.0": "§6 kala pimeja jelo",
   "entity.minecraft.tropical_fish.predefined.1": "§8 kala kipisi pimeja",
   "entity.minecraft.tropical_fish.predefined.10": "§7 kala pi uta lili",

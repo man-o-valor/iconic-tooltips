@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %s x%s",
   "container.shulkerBox.more": "§8 외 %s개 더...",
   "container.shulkerBox.unknownContents": "§7??????? ???????",
+  "entity.minecraft.sulfur_cube.content": "§e 내용물: %s",
   "entity.minecraft.tropical_fish.predefined.0": "§6 아네모네",
   "entity.minecraft.tropical_fish.predefined.1": "§8 긴코양쥐돔",
   "entity.minecraft.tropical_fish.predefined.10": "§7 깃대돔",

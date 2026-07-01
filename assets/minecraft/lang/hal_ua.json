@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %s x%s",
   "container.shulkerBox.more": "§8 і %s біше...",
   "container.shulkerBox.unknownContents": "§7??????? ???????",
+  "entity.minecraft.sulfur_cube.content": "§e Містит: %s",
   "entity.minecraft.tropical_fish.predefined.0": "§6 Ганемона",
   "entity.minecraft.tropical_fish.predefined.1": "§8 Чорний танґ",
   "entity.minecraft.tropical_fish.predefined.10": "§7 Мавританский идоль",

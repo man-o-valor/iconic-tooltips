@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %s x%s",
   "container.shulkerBox.more": "§8 și alte %s…",
   "container.shulkerBox.unknownContents": "§7??????? ???????",
+  "entity.minecraft.sulfur_cube.content": "§e Conține: %s",
   "entity.minecraft.tropical_fish.predefined.0": "§6 Pește-anemonă",
   "entity.minecraft.tropical_fish.predefined.1": "§8 Chirurg negru",
   "entity.minecraft.tropical_fish.predefined.10": "§7 Idol maur",

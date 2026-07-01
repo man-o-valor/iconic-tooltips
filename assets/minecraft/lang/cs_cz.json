@@ -26,6 +26,7 @@
   "container.shulkerBox.itemCount": "§7 %s x%s",
   "container.shulkerBox.more": "§8 a %s dalších…",
   "container.shulkerBox.unknownContents": "§7??????? ???????",
+  "entity.minecraft.sulfur_cube.content": "§e Obsahuje: %s",
   "entity.minecraft.tropical_fish.predefined.0": "§6 Klaun",
   "entity.minecraft.tropical_fish.predefined.1": "§8 Bodlok černý",
   "entity.minecraft.tropical_fish.predefined.10": "§7 Bičonoš zobanovitý",
